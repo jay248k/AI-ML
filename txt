@@ -1,0 +1,46 @@
+1️⃣ Data Preprocessing (VERY IMPORTANT)
+train_test_split
+StandardScaler
+MinMaxScaler
+LabelEncoder
+OneHotEncoder
+SimpleImputer (handle missing values)
+2️⃣ Regression Algorithms
+LinearRegression
+Ridge
+Lasso
+DecisionTreeRegressor
+RandomForestRegressor
+3️⃣ Classification Algorithms (SUPER IMPORTANT)
+LogisticRegression
+KNeighborsClassifier
+DecisionTreeClassifier
+RandomForestClassifier
+SVC (Support Vector Machine)
+NaiveBayes
+Spam detection
+Fraud detection
+4️⃣ Model Evaluation (VERY IMPORTANT)
+accuracy_score
+precision_score
+recall_score
+f1_score
+confusion_matrix
+classification_report
+mean_squared_error
+r2_score
+5️⃣ Feature Engineering
+PolynomialFeatures
+Feature selection
+SelectKBest
+6️⃣ Cross Validation
+cross_val_score
+KFold
+GridSearchCV (Hyperparameter tuning 🔥)
+This is important for production-level ML.
+7️⃣ Clustering (Sometimes Used)
+KMeans
+DBSCAN
+8️⃣ Pipelines (Very Professional)
+Pipeline
+Combine preprocessing + model
