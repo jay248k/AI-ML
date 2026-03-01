@@ -44,3 +44,5 @@ DBSCAN
 8️⃣ Pipelines (Very Professional)
 Pipeline
 Combine preprocessing + model
+
+₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
