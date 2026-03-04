@@ -37,7 +37,6 @@ df["Gender"] = le.fit_transform(df["Gender"])
 
 print(df)
 
-
 # 1️⃣ VERY EASY EXPLANATION
 
 # Machines understand only numbers.

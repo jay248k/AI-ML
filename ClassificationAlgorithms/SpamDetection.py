@@ -35,7 +35,6 @@ predictions = model.predict(X_test)
 
 print("Accuracy:", accuracy_score(y_test, predictions))
 
-
 # 📩 Spam Detection using Machine Learning
 
 # This is one of the most classic ML projects.
